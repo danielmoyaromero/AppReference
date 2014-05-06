@@ -1,4 +1,4 @@
 AppReference
 ============
 
-AppScalaSpray
+App With Scala, Spray, Akka
